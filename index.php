@@ -75,7 +75,7 @@
 <div id="intro-author"><img src="/images/logo.png" alt="Impact IT"></div>
 <!-- author end -->
 <!-- title -->
-<div id="intro-title">HOURS</div>
+<div id="intro-title">Coming Soon...</div>
 <!-- title end -->
 
 <!-- countdown -->
