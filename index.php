@@ -133,8 +133,15 @@
 <!-- about column -->
 <!-- sixteen columns -->
 <div class="sixteen columns">
-<p>Lorem ipsum dolor sit amet, <a href="#">consectetur adipiscing elit</a>. Donec placerat congue leo, nec vehicula elit vehicula vel. Duis odio nibh, malesuada sed luctus ut, consectetur vel dui. Mauris vel imperdiet nulla. Sed eu ligula augue. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Sed a justo nec elit feugiat facilisis quis quis elit.</p>
-<p>Curabitur gravida, magna id condimentum convallis, nibh odio tristique lorem, vel imperdiet ipsum lorem nec ligula. Maecenas volutpat erat quis nisi fermentum malesuada. Fusce accumsan, diam eu aliquet vehicula, turpis tortor sagittis dolor, eu lobortis justo elit quis justo. Donec enim leo, imperdiet ut auctor in, consequat a lectus. Sed in aliquet justo. In sit amet dui urna, ac fermentum eros.</p>
+
+<p>
+Azel Cloud is a boutique IT consultancy and support company in London.
+
+We specialise in providing tailormade solutions for small businesses across the UK.
+
+Whether you are looking to work with a firm for technical or strategic support, we will work with you to ensure your IT infrastructure is delivering you a genuine competitive advantage in your industry.
+
+With a wealth of experience, coupled with in-depth technical knowledge in cloud-based technologies, we are uniquely positioned to bring a fresh perspective to your firm’s IT strategy.</p>
 </div>
 <!-- sixteen columns end -->
 <!-- about column end -->
