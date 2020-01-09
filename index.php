@@ -210,9 +210,9 @@ With a wealth of experience, coupled with in-depth technical knowledge in cloud-
 <div class="one-third column">
 <div class="info-address">
 <p><strong>Address</strong><br>
-ex nihilo, Inc.<br>
-Touchdown Dr<br>
-1176</p>
+Aldgate Tower,<br>
+London<br>
+E1 8FA</p>
 </div>
 </div>
 <!-- one third column end -->
@@ -223,8 +223,7 @@ Touchdown Dr<br>
 <div class="one-third column">
 <div class="info-phone">
 <p><strong>Telephone</strong><br>
-[00] 11 - 76<br>
-[01] 11 - 76</p>
+[44] 203 2393 181</p>
 </div>
 </div>
 <!-- one third column end -->
@@ -235,7 +234,7 @@ Touchdown Dr<br>
 <div class="one-third column">
 <div class="info-email">
 <p><strong>Email</strong><br>
-<a href="mailto:you@yoursite.com">you@yoursite.com</a></p>
+<a href="mailto:info@impact-it.tech">info@impact-it.tech</a></p>
 </div>
 </div>
 <!-- one third column end -->
