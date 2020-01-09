@@ -55,7 +55,6 @@
 <ul class="social-icons">
 <li><a href="#"><img src="images/social/twitter.png" alt="Twitter"></a></li>
 <li><a href="#"><img src="images/social/facebook.png" alt="Facebook"></a></li>
-<li><a href="#"><img src="images/social/googleplus.png" alt="GooglePlus"></a></li>
 <li><a href="#"><img src="images/social/linkedin.png" alt="LinkedIn"></a></li>
 </ul>
 </div>
