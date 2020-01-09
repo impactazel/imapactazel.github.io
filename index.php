@@ -283,7 +283,7 @@ Touchdown Dr<br>
 
 </div>
 </div>
-<div class="panel-button"><a href="#">Subscribe</a></div>
+<div class="panel-button"><a href="#">Updates</a></div>
 <div class="panel-button" id="close-button"><a href="#">Close</a></div>
 </div>
 </div>
