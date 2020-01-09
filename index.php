@@ -164,7 +164,7 @@ With a wealth of experience, coupled with in-depth technical knowledge in cloud-
 
 <!-- services column 1 -->
 <!-- eight columns -->
-<div class="eight columns column">
+<div>
 <table style="width:100%">
   <tr>
     <th>IT SUPPORT</th>
