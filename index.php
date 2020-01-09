@@ -135,12 +135,12 @@
 <div class="sixteen columns">
 
 <p>
-Azel Cloud is a boutique IT consultancy and support company in London.
+Impact IT is a boutique IT consultancy and support company in London.</p><p>
 
-We specialise in providing tailormade solutions for small businesses across the UK.
+We specialise in providing tailormade solutions for small businesses across the UK.</p><p>
 
 Whether you are looking to work with a firm for technical or strategic support, we will work with you to ensure your IT infrastructure is delivering you a genuine competitive advantage in your industry.
-
+</p><p>
 With a wealth of experience, coupled with in-depth technical knowledge in cloud-based technologies, we are uniquely positioned to bring a fresh perspective to your firm’s IT strategy.</p>
 </div>
 <!-- sixteen columns end -->
