@@ -165,8 +165,19 @@ With a wealth of experience, coupled with in-depth technical knowledge in cloud-
 <!-- services column 1 -->
 <!-- eight columns -->
 <div class="eight columns column">
-<p>Lorem ipsum dolor sit amet, <a href="#">consectetur adipiscing elit</a>. Donec placerat congue leo, nec vehicula elit vehicula vel. Duis odio nibh, malesuada sed luctus ut, consectetur vel dui.</p>
-<p>Mauris vel imperdiet nulla. Sed eu ligula augue. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Sed a justo nec elit feugiat facilisis quis quis elit.</p>
+<table style="width:100%">
+  <tr>
+    <th>IT SUPPORT</th>
+    <th>CONSULTANCY</th>
+    <th>COMMUNICATIONS</th>
+  </tr>
+  <tr>
+    <td>Acting as your full-time IT support department, we would take complete responsibility for your IT systems. Our end-to-end service gives you the opportunity to focus your resources and attention on your core business.</td>
+    <td>We provide a comprehensive range of IT consultancy services to small and medium businesses. Azel Cloud will look to improve your existing IT infrastructure, extracting greater efficiency from your existing systems.</td>
+    <td>As part of our mission to offer full end-to-end IT support, Azel Cloud can also procure and install any technology we recommend in our work. From VOIP systems to fibre broadband, our expert in-house team has it covered.</td>
+  </tr>
+  
+</table>
 </div>
 <!-- eight columns end -->
 <!-- services column 1 end -->
