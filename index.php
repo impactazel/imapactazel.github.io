@@ -260,7 +260,7 @@ Touchdown Dr<br>
 <li class="lifting"><a class="menu" href="#section1">About</a></li>
 <li class="lifting"><a class="menu" href="#section2">Services</a></li>
 <li class="lifting"><a class="menu" href="#section3">Contact</a></li>
-<li class="lifting-first"><a class="menu" href="http://themeforest.net/item/hours-responsive-coming-soon-page/6191047?ref=ex-nihilo" target="_top">Purchase</a></li>
+<!--<li class="lifting-first"><a class="menu" href="http://themeforest.net/item/hours-responsive-coming-soon-page/6191047?ref=ex-nihilo" target="_top">Purchase</a></li>-->
 </ul>
 <a class="menu-trigger" href="#">Menu</a></li>
 </ul>
