@@ -184,10 +184,7 @@ With a wealth of experience, coupled with in-depth technical knowledge in cloud-
 
 <!-- services column 2 -->
 <!-- eight columns -->
-<div class="eight columns column">
-<p>Lorem ipsum dolor sit amet, <a href="#">consectetur adipiscing elit</a>. Donec placerat congue leo, nec vehicula elit vehicula vel. Duis odio nibh, malesuada sed luctus ut, consectetur vel dui.</p>
-<p>Mauris vel imperdiet nulla. Sed eu ligula augue. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Sed a justo nec elit feugiat facilisis quis quis elit.</p>
-</div>
+
 <!-- eight columns end -->
 <!-- services column 2 end -->
 
