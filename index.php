@@ -231,14 +231,25 @@ E1 8FA</p>
 
 <!-- contact column 3 -->
 <!-- one third column -->
-<div class="one-third column">
+<!--<div class="one-third column">
 <div class="info-email">
 <p><strong>Email</strong><br>
 <a href="mailto:info@impact-it.tech">info@impact-it.tech</a></p>
 </div>
-</div>
+</div>-->
 <!-- one third column end -->
 <!-- contact column 3 end -->
+
+<!-- contact column 4 -->
+<!-- one fourth column -->
+<div class="one-fourth column">
+<div class="">
+<p><strong>Admin</strong><br>
+<a href="/helpdesk/dashboard1/">Admin</a></p>
+</div>
+</div>
+<!-- one fourth column end -->
+<!-- contact column 4 end -->
 
 </div>
 <!-- container end -->
@@ -266,6 +277,8 @@ E1 8FA</p>
 <li class="lifting"><a class="menu" href="#section1">About</a></li>
 <li class="lifting"><a class="menu" href="#section2">Services</a></li>
 <li class="lifting"><a class="menu" href="#section3">Contact</a></li>
+<li class="lifting"><a class="menu" href="/helpdesk/dashboard1/">Admin</a></li>
+<li class="lifting"><a class="menu" href="/helpdesk/dashboard/">Client</a></li>
 <!--<li class="lifting-first"><a class="menu" href="http://themeforest.net/item/hours-responsive-coming-soon-page/6191047?ref=ex-nihilo" target="_top">Purchase</a></li>-->
 </ul>
 <a class="menu-trigger" href="#">Menu</a></li>
